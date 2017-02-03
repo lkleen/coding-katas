@@ -1,3 +1,3 @@
-==== Karate Chop ====
+# Karate Chop
 
-[source](http://codekata.com/kata/kata02-karate-chop/)
+## [description](http://codekata.com/kata/kata02-karate-chop/)
